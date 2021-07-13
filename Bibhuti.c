@@ -3,5 +3,6 @@
 void main ()
 {
 	printf("Jay Jagannath");
+	printf("Tryinh to understand git diff staged");
+	printf("Trying to understand git diff --staged");
 }
-[B[D[D[D[D[D[D[D[D[D[D[D[D[D[3~
