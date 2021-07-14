@@ -6,3 +6,5 @@ void main ()
 	printf("Tryinh to understand git diff staged");
 	printf("Trying to understand git diff --staged");
 }
+
+// Updating in Feature_Bob branch
